@@ -1,0 +1,23 @@
+- Work flow - 
+>> Scrape the raw data from multiple sources
+>> Append the data identifiers to the Source_map
+>> (Optional) write a Modifyer for the data source
+>> Use the viewer to select the source and annotate data
+>> Run the quality control to check for essential data properties
+>> Use the post-processor to ready the data for Fluor
+
+TODO
+NUCVIEW530, excitation is incorrect!!!
+
+missing: lipi-green, lipi-red, lipi-deepred
+missing: ReadiLink 350/440
+missing: Vysis SpectrumRed, SpectrumRed, SpectrumGold, SpectrumOrange, SpectrumBlue
+
+proteostat: https://www.ncbi.nlm.nih.gov/pubmed/25112199
+
+BioLegend changed their spectranalyzer -> data files can be found here now: https://www.biolegend.com/Files/Files/Biolegend/SpectraAnalyzer/SpectraData.json
+Fluorofinder -> SSLerror, not sure why
+
+For later:
+Add categories
+Add url (but probably just want to get rid of this info)
