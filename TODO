@@ -1,12 +1,5 @@
-- Work flow - 
->> Scrape the raw data from multiple sources
->> Append the data identifiers to the Source_map
->> (Optional) write a Modifyer for the data source
->> Use the viewer to select the source and annotate data
->> Run the quality control to check for essential data properties
->> Use the post-processor to ready the data for Fluor
+TODO:
 
-TODO
 NUCVIEW530, excitation is incorrect!!!
 
 missing: lipi-green, lipi-red, lipi-deepred

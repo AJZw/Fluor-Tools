@@ -30,7 +30,7 @@ if __name__ == "__main__":
     reader.load_modifyer(modifyer.ThermoFisher())
 
     # (Optional) Load previous annotated source data
-    reader.load_source_data(os.path.join(FILE_DIR, "Data_Source.json"))
+    reader.load_source_data(os.path.join(FILE_DIR, "Source_data.json"))
     
     # Start event manager
     app = Application([])

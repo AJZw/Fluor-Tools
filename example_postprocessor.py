@@ -15,4 +15,4 @@ post_processor.process()
 post_processor.remove_disabled()
 
 # Export the data
-post_processor.export(FILE_DIR, "fluorophores", Format.ini)
+post_processor.export(FILE_DIR, "fluorophores", Format.json)
