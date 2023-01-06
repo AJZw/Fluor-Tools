@@ -160,9 +160,9 @@ Bug reports, idea's, and push request are very welcome!
 
 ## Version List
 
-v2.1 - Updated README
-v2.0 - Updated scrapers to only use the requests library
-v1.0 - Selenium library based scrapers  
+v2.1 - Updated README  
+v2.0 - Updated scrapers to only use the requests library  
+v1.0 - Selenium library based scrapers
 
 ## License
 
