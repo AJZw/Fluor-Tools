@@ -113,7 +113,7 @@ main.loadData(reader)
 sys.exit(app.exec_())
 ```
 
-!["fluor tools graphical user interface"](.\tutorial\fluor_tools.png)
+!["fluor tools graphical user interface"](./tutorial/fluor_tools.png)
 
 A last quality control of all spectra.
 
